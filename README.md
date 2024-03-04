@@ -1,16 +1,17 @@
 # alearning_app
 
-A new Flutter project.
+A simple Flutter project; building some basic pages for learning app.
 
-## Getting Started
+## Pages Documentation
 
-This project is a starting point for a Flutter application.
+### Welcome Pages
 
-A few resources to get you started if this is your first Flutter project:
+This section containing several splash screens.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![photo_2024-03-04_12-06-16 (4)](https://github.com/akhher/alearning_app/assets/147062436/d05c2163-9ae3-41d6-802d-4bcbdee3040c)
+![photo_2024-03-04_12-06-16 (3)](https://github.com/akhher/alearning_app/assets/147062436/781dff0a-fa4d-4a16-ad8c-3cb846af0e61)
+![photo_2024-03-04_12-06-16 (2)](https://github.com/akhher/alearning_app/assets/147062436/21f09292-0fee-4a5e-a7a5-66ba9178d895)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Login Pages
+
+![photo_2024-03-04_12-06-16](https://github.com/akhher/alearning_app/assets/147062436/d990c647-694a-437f-bd03-7dde5ad0680a)
